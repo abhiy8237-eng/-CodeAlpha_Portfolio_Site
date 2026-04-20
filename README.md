@@ -1,0 +1,1 @@
+A fully responsive portfolio website built using modern web technologies to showcase my development projects, skills, and professional journey. Emphasizes clean UI, accessibility, and performance optimization.
